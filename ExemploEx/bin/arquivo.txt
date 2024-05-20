@@ -1,0 +1,3 @@
+Apenas uma linha de texto para leitura no java
+Segunda linha de texto para leitura
+BEST IN THE WORLD
